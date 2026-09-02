@@ -1,0 +1,15 @@
+# build output
+/build/
+/build-*/
+
+# macOS
+.DS_Store
+
+# latex build artifacts
+docs/*.aux
+docs/*.log
+docs/*.out
+docs/*.pdf
+
+# scratch investigation, not tracked
+/tmp/
